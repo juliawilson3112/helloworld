@@ -1,3 +1,0 @@
-# helloworld
-test
-hello :)
